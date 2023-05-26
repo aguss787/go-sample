@@ -1,0 +1,6 @@
+BEGIN;
+
+DROP TABLE "Hubbers";
+DROP EXTENSION IF EXISTS "uuid-ossp";
+
+COMMIT;
